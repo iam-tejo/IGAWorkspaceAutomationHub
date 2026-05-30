@@ -1,7 +1,1 @@
-terraform {
-  required_providers {
-    saviynt = {
-      source = "saviynt/saviynt"
-    }
-  }
-}
+terraform { required_providers { saviynt = { source = "saviynt/saviynt" } } }
